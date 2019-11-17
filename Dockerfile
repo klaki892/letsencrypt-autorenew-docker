@@ -1,4 +1,4 @@
-FROM certbot/certbot:v0.31.0
+FROM tobi312/rpi-certbot:latest
 MAINTAINER Eric Barault (@ebarault)
 
 VOLUME /certs
